@@ -2,8 +2,5 @@
   "dependencies": {
     "colors": "^1.4.0",
     "diff": "^5.1.0",
-    "dotenv": "^16.0.3",
-    "ethers": "^5.6.9",
-    "node-fetch": "^3.3.0"
   }
 }
